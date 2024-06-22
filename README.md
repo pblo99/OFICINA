@@ -32,9 +32,14 @@ compra, proporcionando uma maior eficiência e organização para a oficina.
 oficina.sql (vai estar próximo a pasta src aqui no GitHub)
 https://github.com/pblo99/OFICINA/blob/main/oficina.sql
 
+### NetBeans Project 
+
+Source: https://github.com/pblo99/OFICINA/releases/tag/Source
+
 ### Dependências / Libraries (https://github.com/pblo99/OFICINA/releases/tag/librarie)
 
 mysql-connector-j-8.4.0.jar: https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-j-8.4.0.tar.gz
 HikariCP-5.1.0.jar: https://repo1.maven.org/maven2/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.jar
 slf4j-api-2.0.7.jar: https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar
 slf4j-simple-2.0.7.jar: https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/2.0.7/slf4j-simple-2.0.7.jar
+

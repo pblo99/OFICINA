@@ -31,7 +31,7 @@ compra, proporcionando uma maior eficiência e organização para a oficina.
 
 oficina.sql (vai estar próximo a pasta src aqui no GitHub)
 
-### Dependências / Libraries
+### Dependências / Libraries (https://github.com/pblo99/OFICINA/releases/tag/librarie)
 
 mysql-connector-j-8.4.0.jar: https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-j-8.4.0.tar.gz
 HikariCP-5.1.0.jar: https://repo1.maven.org/maven2/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.jar

@@ -30,6 +30,7 @@ compra, proporcionando uma maior eficiência e organização para a oficina.
 ### Configuração do Banco de Dados
 
 oficina.sql (vai estar próximo a pasta src aqui no GitHub)
+https://github.com/pblo99/OFICINA/blob/main/oficina.sql
 
 ### Dependências / Libraries (https://github.com/pblo99/OFICINA/releases/tag/librarie)
 

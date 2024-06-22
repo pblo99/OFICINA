@@ -26,6 +26,8 @@ compra, proporcionando uma maior eficiência e organização para a oficina.
 - **MySQL**: Banco de dados utilizado para armazenar informações sobre peças, serviços, faturamentos e pedidos.
 - **HikariCP**: Biblioteca de pool de conexões para otimizar a conexão com o banco de dados.
 - **SLF4J**: Biblioteca para logging.
+- 
+## Arquivos:
 
 ### Configuração do Banco de Dados
 

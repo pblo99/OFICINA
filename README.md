@@ -34,7 +34,7 @@ compra, proporcionando uma maior eficiência e organização para a oficina.
 oficina.sql (vai estar próximo a pasta src aqui no GitHub)
 https://github.com/pblo99/OFICINA/blob/main/oficina.sql
 
-### NetBeans Project 
+### Projeto do NetBeans
 
 Source: https://github.com/pblo99/OFICINA/releases/tag/Source
 

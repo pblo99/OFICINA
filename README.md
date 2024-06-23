@@ -17,7 +17,7 @@ compra, proporcionando uma maior eficiência e organização para a oficina.
 
 - **Gerenciamento de Peças**: Cadastro, atualização, exclusão e listagem de peças disponíveis no estoque.
 - **Gerenciamento de Serviços**: Registro de serviços oferecidos, incluindo ordens de serviço e seu status.
-- **Faturamento**: Controle de faturamento, incluindo a emissão de faturas e monitoramento de pagamentos.
+- **Faturamento**: Controle de faturamento, incluindo a registro de pedidos de compras e monitoramento de pagamentos.
 - **Pedidos de Compra**: Gerenciamento de pedidos de compra de peças, incluindo status dos pedidos e histórico de compras.
 
 ## Utilizados
@@ -44,4 +44,4 @@ mysql-connector-j-8.4.0.jar: https://dev.mysql.com/get/Downloads/Connector-J/mys
 HikariCP-5.1.0.jar: https://repo1.maven.org/maven2/com/zaxxer/HikariCP/5.1.0/HikariCP-5.1.0.jar
 slf4j-api-2.0.7.jar: https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar
 slf4j-simple-2.0.7.jar: https://repo1.maven.org/maven2/org/slf4j/slf4j-simple/2.0.7/slf4j-simple-2.0.7.jar
-
+flatlaf-3.4.1.jar: https://repo1.maven.org/maven2/com/formdev/flatlaf/3.4.1/flatlaf-3.4.1.jar

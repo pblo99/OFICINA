@@ -1,12 +1,5 @@
 # Sistema de Gestão de Oficina
 
-## Equipe de Desenvolvimento
-
-- Alexandre Mattos Rosa
-- David Mortel
-- Maxuel Junio dos Santos Vieira
-- Pablo Monteiro Soares
-
 ## Descrição do Projeto
 
 O Sistema de Gestão de Oficina é uma aplicação desenvolvida para auxiliar oficinas mecânicas no gerenciamento de peças, serviços, faturamentos e pedidos. 
